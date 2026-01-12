@@ -1,6 +1,9 @@
 # mindful
 
 Instructions for running this app
+
+Step 1:
+Step 2:
 ## Getting Started
 
 This project is a starting point for a Flutter application.
